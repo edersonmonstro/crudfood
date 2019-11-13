@@ -2,26 +2,34 @@
 
 possible REST requests:
 
-* create a food <br/>
+* create a food
+```
 {{ base_url  }}/food <br/>
-JSON <br/>
-{ <br/>
-  "name": "rice", <br/>
-  "calories": "200" <br/>
-} <br/>
 
-* read foods <br/>
+{
+  "name": "rice",
+  "calories": "200"
+} 
+```
+
+* read all foods
+```
 {{ base_url  }}/foods<br/>
+```
 
-* update food<br/>
+* update specificfood
+```
 {{ base_url  }}/food/:id<br/>
-```{
+
+{
 	"name": "feijoada alt" <br/>
 }
 ```
 
-* delete food/:id<br/>
-<br/>
+* delete specific food 
+```
+delete food/:id
+```
 
 # Installed Dependecies:
 express <br/>
