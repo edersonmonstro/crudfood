@@ -2,7 +2,7 @@
 
 ppossible requests:
 
-=== create a food
+* create a food
 {{ base_url  }}/food
 JSON
 {
@@ -10,14 +10,14 @@ JSON
   "calories": "200"
 }
 
-=== read foods
+* read foods
 {{ base_url  }}/foods
 
-=== update food
+* update food
 {{ base_url  }}/food/:id
 {
 	"name": "feijoada alt" 
 }
 
-=== delete food/:id
+* delete food/:id
 
