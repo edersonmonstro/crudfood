@@ -1,6 +1,6 @@
 # CRUDFood
 
-ppossible requests:
+possible REST requests:
 
 * create a food
 {{ base_url  }}/food
@@ -21,3 +21,6 @@ JSON
 
 * delete food/:id
 
+installed dependecies:
+express <br/>
+mongoose
