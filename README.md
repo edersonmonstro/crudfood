@@ -15,10 +15,10 @@ JSON <br/>
 
 * update food<br/>
 {{ base_url  }}/food/:id<br/>
-'''{
+```{
 	"name": "feijoada alt" <br/>
 }
-'''
+```
 
 * delete food/:id<br/>
 <br/>
