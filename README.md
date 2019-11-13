@@ -4,7 +4,7 @@ possible REST requests:
 
 * create a food
 ```
-{{ base_url  }}/food <br/>
+{{ base_url  }}/food
 
 {
   "name": "rice",
@@ -14,15 +14,15 @@ possible REST requests:
 
 * read all foods
 ```
-{{ base_url  }}/foods<br/>
+{{ base_url  }}/foods
 ```
 
 * update specificfood
 ```
-{{ base_url  }}/food/:id<br/>
+{{ base_url  }}/food/:id
 
 {
-	"name": "feijoada alt" <br/>
+	"name": "feijoada alt"
 }
 ```
 
