@@ -21,10 +21,11 @@ JSON <br/>
 
 * delete food/:id<br/>
 <br/>
-installed dependecies: <br/>
+
+# Installed Dependecies:
 express <br/>
 mongoose  
 
-<h2>Tutorials</h2>
+# Tutorials
 
 https://alligator.io/nodejs/crud-operations-mongoose-mongodb-atlas/
