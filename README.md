@@ -23,4 +23,8 @@ JSON <br/>
 <br/>
 installed dependecies: <br/>
 express <br/>
-mongoose
+mongoose  
+
+<h2>Tutorials</h2>
+
+https://alligator.io/nodejs/crud-operations-mongoose-mongodb-atlas/
